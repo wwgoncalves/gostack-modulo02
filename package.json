@@ -1,0 +1,11 @@
+{
+  "name": "modulo02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wwgoncalves/gostack-modulo02.git",
+  "author": "William",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
