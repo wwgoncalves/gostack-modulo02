@@ -1,3 +1,3 @@
 # gostack-modulo02
 
-Início da aplicação GoBarber.
+Início do back-end (REST API) da aplicação GoBarber.
